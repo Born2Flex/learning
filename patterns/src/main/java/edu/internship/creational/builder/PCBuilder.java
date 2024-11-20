@@ -1,4 +1,4 @@
-package edu.intenship.creational.builder;
+package edu.internship.creational.builder;
 
 public interface PCBuilder {
     PCBuilderImpl cpu(String cpu);

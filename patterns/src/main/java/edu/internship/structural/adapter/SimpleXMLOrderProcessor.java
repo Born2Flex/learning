@@ -1,4 +1,4 @@
-package edu.intenship.structural.adapter;
+package edu.internship.structural.adapter;
 
 public class SimpleXMLOrderProcessor implements XMLOrderProcessor{
     @Override
