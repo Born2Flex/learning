@@ -1,3 +1,0 @@
-- Use *learning tests* to learn an API of external library
-- Use *wrappers* if you want to narrow third-party API
-- Use *Adapter* pattern when working with code that does not exists yet
